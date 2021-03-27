@@ -1,3 +1,5 @@
+// https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/beautiful-segments/
+
 #include <bits/stdc++.h>
 using namespace std;
 int main()
